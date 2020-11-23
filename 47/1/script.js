@@ -1,8 +1,4 @@
-
-// låt i vara 0
-
-// while i < 6
-//      logga ut i
-//      öka i med 1
-
-// logga ut "Färdig!"
+for(i = 0; i < 6; i++) {
+    console.log(i)
+}
+console.log("Färdig!")
