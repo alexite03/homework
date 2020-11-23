@@ -1,3 +1,5 @@
-// Deklarera en variabel name och ge den värdet av ditt namn
+name = "Alexander"
 
-// Skriv en for-loop som loggar ut "Hejsan <ditt namn här>!!" 500 gånger
+for(i = 0; i < 500; i++) {
+    console.log(`Hejsan ${name}!!`)
+}
